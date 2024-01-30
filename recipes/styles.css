@@ -1,0 +1,48 @@
+/*      styles.css    */
+
+*{
+    font-family: 'Lucida Sans', Arial, sans-serif;
+
+}
+h1,h2,h3{
+    
+    color:rgb(65, 64, 64);
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 64px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+h3{
+    font-size: 22px;
+}
+
+.inform{
+    color: rgb(150, 147, 147);
+    font-stretch: extra-expanded;
+    text-align: center;
+}
+
+.button{
+    color: rgb(25, 24, 24);
+    background-color:rgba(220, 162, 162, 0.06);
+    text-align:left;
+}
+
+.recipes_list{
+    font-size: 32px;
+    color:rgb(79, 78, 78);
+    text-align:left;
+}
+
+img{
+    width: 256px;
+    height: auto;
+    align-content: center;
+}
