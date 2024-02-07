@@ -12,21 +12,23 @@ h1,h2,h3{
 
 h1{
     text-align: center;
-    font-size: 64px;
+    margin: 40px 0px 10px 10px;
+    font-size: 36px;
 }
 
 h2{
-    font-size: 32px;
+    font-size: 20px;
 }
 
 h3{
-    font-size: 22px;
+    font-size: 16px;
 }
 
 .inform{
     color: rgb(150, 147, 147);
     font-stretch: extra-expanded;
     text-align: center;
+    margin-top: 2px;
 }
 
 .button{
@@ -36,9 +38,20 @@ h3{
 }
 
 .recipes_list{
-    font-size: 32px;
+    list-style-type: none;
+    
+}
+
+.recipe_button{
+    margin:40px 10px;
+    border-left: 2px solid grey;
+    width:400px;
+    background-color: aliceblue;
+    font-size: 20px;
+    padding: 0px 10px;
     color:rgb(79, 78, 78);
     text-align:left;
+    
 }
 
 img{
